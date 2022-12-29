@@ -1,14 +1,7 @@
 # ![sketch of three.js](http://ykob.github.io/sketch-threejs/img/common/ogp_common.jpg)
 
-Interactive sketches made with three.js.  
-https://ykob.github.io/sketch-threejs/
-
 This code is released under the MIT license.  
 If you want to use some code, you can use these freely by adding license notation.
-
-Also, I'm accepting donations through Paypal.  
-If you can support my project, please consider that.  
-https://www.paypal.me/ykob
 
 ## Requirements
 
@@ -48,7 +41,3 @@ http://opensource.org/licenses/mit-license.php
 - 3D model and texture these are using on the sketch "crystal".
 - 3D model that is using on the sketch "newyear2019".
 - 3D model and texture these are using on the sketch "buddha".
-
-## Misc
-
-Follow Yoichi Kobayashi: [Web](http://www.tplh.net/), [Twitter](https://twitter.com/ykob0123)
